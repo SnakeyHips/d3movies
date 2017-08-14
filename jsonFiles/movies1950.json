@@ -1,0 +1,216 @@
+{
+  "name": "1950",
+  "children": [
+    {
+      "name": "Action",
+      "children": [
+        {
+          "name": "Adventure",
+          "children": [
+            {
+              "name": "Drama",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            },
+            {
+              "name": "Family",
+              "size": 1
+            },
+            {
+              "name": "War",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Horror",
+          "children": [
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Biography",
+      "children": [
+        {
+          "name": "Comedy",
+          "children": [
+            {
+              "name": "Musical",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "History",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Comedy",
+      "children": [
+        {
+          "name": "Music",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Mystery",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crime",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            },
+            {
+              "name": "Film-Noir",
+              "size": 1
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Film-Noir",
+          "children": [
+            {
+              "name": "Thriller",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drama",
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Family",
+          "children": [
+            {
+              "name": "Musical",
+              "size": 1
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Fantasy",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "History",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Romance",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            },
+            {
+              "name": "War",
+              "size": 1
+            },
+            {
+              "name": "Western",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thriller",
+      "children": [
+        {
+          "name": "Western",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

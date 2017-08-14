@@ -1,0 +1,141 @@
+{
+  "name": "1930",
+  "children": [
+    {
+      "name": "Action",
+      "children": [
+        {
+          "name": "Adventure",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Family",
+          "children": [
+            {
+              "name": "Fantasy",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Animation",
+      "children": [
+        {
+          "name": "Family",
+          "children": [
+            {
+              "name": "Fantasy",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Comedy",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            },
+            {
+              "name": "Family",
+              "size": 1
+            },
+            {
+              "name": "History",
+              "size": 1
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Romance",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drama",
+      "children": [
+        {
+          "name": "History",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Romance",
+          "children": [
+            {
+              "name": "War",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "War",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

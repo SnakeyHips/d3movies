@@ -1,0 +1,95 @@
+html, body, #vis {
+    display: block;
+    margin: auto;
+    height: 90%;
+}
+
+html {
+    background-color: #FFDAE3;
+}
+
+
+/*custom font input from:http://stackoverflow.com/questions/12144000/using-custom-fonts-using-css */
+
+@font-face {
+    font-family: 'JosefinBold';
+    src: url('font/JosefinSans-Bold.ttf');
+}
+
+
+/*stroke properties from: https://www.w3schools.com/graphics/svg_stroking.asp*/
+
+path {
+    stroke: #FFDAE3;
+}
+
+#title {
+    display: block;
+    font-size: 1.6vw;
+    font-family: JosefinBold, sans-serif;
+    text-align: center;
+    color: #5C86C4;
+}
+
+#tipsbar {
+    float: right;
+    padding: 20px;
+    margin-right: 10vw;
+    font-family: JosefinBold, sans-serif;
+    color: #5C86C4;
+}
+
+#legendbar {
+    position: absolute;
+    padding: 20px;
+    font-family: JosefinBold, sans-serif;
+    color: #5C86C4;
+}
+
+#legend {
+    opacity: 0;
+}
+
+#tooltips {
+    position: absolute;
+    opacity: 0;
+}
+
+
+/*CSS styling code from: http://brennaobrien.com/blog/2014/05/style-input-type-range-in-every-browser.html*/
+
+input[type=range] {
+    -webkit-appearance: none;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 30%;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    width: 300px;
+    height: 5px;
+    background: #a4bbde;
+    border: none;
+    border-radius: 3px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: #5C86C4;
+    margin-top: -4px;
+}
+
+#selected_decade {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 2.5vw;
+    font-family: JosefinBold, sans-serif;
+    color: #5C86C4;
+}

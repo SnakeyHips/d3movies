@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Genres By Decades</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div id="title">
+        <h1>MOVIE GENRES BY THE DECADES</h1>
+    </div>
+    <div id="vis">
+        <div id="tipsbar">
+            <input type="checkbox" id="toggletips"> Tooltips<br/>
+            <div id="tooltips">
+                <ul>
+                    <li>Click on a genre area to "zoom" sunburst in</li>
+                    <li>"Hover" over a genre area for more genre info</li>
+                    <li>Use the slider below to load in a different decade</li>
+                </ul>
+            </div>
+        </div>
+        <div id="legendbar">
+            <input type="checkbox" id="togglelegend"> Main Genre Details<br/>
+            <div id="legend"></div>
+        </div>
+        <svg id="chart"></svg>
+        <div class="range-slider">
+            <form>
+                <input type="range" min=1930 max=2010 step=10 id="decade" value=2010 oninput="selected_decade.value = decade.value">
+                <output name="selected_decade" id="selected_decade">2010</output>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

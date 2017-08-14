@@ -1,0 +1,828 @@
+{
+  "name": "1980",
+  "children": [
+    {
+      "name": "Action",
+      "children": [
+        {
+          "name": "Adventure",
+          "children": [
+            {
+              "name": "",
+              "size": 3
+            },
+            {
+              "name": "Comedy",
+              "size": 6
+            },
+            {
+              "name": "Drama",
+              "size": 3
+            },
+            {
+              "name": "Family",
+              "size": 1
+            },
+            {
+              "name": "Fantasy",
+              "size": 9
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 8
+            },
+            {
+              "name": "Thriller",
+              "size": 10
+            },
+            {
+              "name": "Western",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Biography",
+          "children": [
+            {
+              "name": "Drama",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Comedy",
+          "children": [
+            {
+              "name": "Crime",
+              "size": 6
+            },
+            {
+              "name": "Drama",
+              "size": 1
+            },
+            {
+              "name": "Horror",
+              "size": 2
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            },
+            {
+              "name": "War",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "Drama",
+              "size": 4
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            },
+            {
+              "name": "Thriller",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Family",
+              "size": 1
+            },
+            {
+              "name": "Horror",
+              "size": 1
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            },
+            {
+              "name": "Thriller",
+              "size": 2
+            },
+            {
+              "name": "War",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Fantasy",
+          "children": [
+            {
+              "name": "Fantasy",
+              "size": 3
+            }
+          ]
+        },
+        {
+          "name": "Horror",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 3
+            }
+          ]
+        },
+        {
+          "name": "Sci-Fi",
+          "children": [
+            {
+              "name": "",
+              "size": 4
+            },
+            {
+              "name": "Sport",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Thriller",
+          "children": [
+            {
+              "name": "",
+              "size": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "children": [
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "Comedy",
+              "size": 1
+            },
+            {
+              "name": "Family",
+              "size": 1
+            },
+            {
+              "name": "Fantasy",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Comedy",
+          "children": [
+            {
+              "name": "",
+              "size": 3
+            },
+            {
+              "name": "Drama",
+              "size": 1
+            },
+            {
+              "name": "Fantasy",
+              "size": 1
+            },
+            {
+              "name": "Music",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 4
+            }
+          ]
+        },
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "Drama",
+              "size": 2
+            },
+            {
+              "name": "Thriller",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            },
+            {
+              "name": "Family",
+              "size": 2
+            },
+            {
+              "name": "Fantasy",
+              "size": 1
+            },
+            {
+              "name": "History",
+              "size": 3
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            },
+            {
+              "name": "Thriller",
+              "size": 1
+            },
+            {
+              "name": "Western",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Family",
+          "children": [
+            {
+              "name": "Fantasy",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Fantasy",
+          "children": [
+            {
+              "name": "",
+              "size": 3
+            },
+            {
+              "name": "Mystery",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Horror",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            },
+            {
+              "name": "Thriller",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Mystery",
+          "children": [
+            {
+              "name": "Thriller",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Biography",
+      "children": [
+        {
+          "name": "Comedy",
+          "children": [
+            {
+              "name": "Drama",
+              "size": 1
+            },
+            {
+              "name": "Musical",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            },
+            {
+              "name": "History",
+              "size": 6
+            },
+            {
+              "name": "Music",
+              "size": 2
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            },
+            {
+              "name": "Sport",
+              "size": 2
+            },
+            {
+              "name": "War",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Comedy",
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "size": 9
+            }
+          ]
+        },
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "",
+              "size": 5
+            },
+            {
+              "name": "Family",
+              "size": 4
+            },
+            {
+              "name": "Fantasy",
+              "size": 2
+            },
+            {
+              "name": "Music",
+              "size": 1
+            },
+            {
+              "name": "Musical ",
+              "size": 1
+            },
+            {
+              "name": "Romance",
+              "size": 7
+            },
+            {
+              "name": "Thriller",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Family",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Fantasy",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            },
+            {
+              "name": "Horror",
+              "size": 5
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Horror",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            },
+            {
+              "name": "Musical",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Music",
+          "children": [
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Romance",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Sci-Fi",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Sport",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "War",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crime",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "",
+              "size": 6
+            },
+            {
+              "name": "Horror",
+              "size": 1
+            },
+            {
+              "name": "Music",
+              "size": 1
+            },
+            {
+              "name": "Mystery",
+              "size": 1
+            },
+            {
+              "name": "Romance",
+              "size": 2
+            },
+            {
+              "name": "Thriller",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Documentary",
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drama",
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "size": 10
+            }
+          ]
+        },
+        {
+          "name": "Fantasy",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "History",
+          "children": [
+            {
+              "name": "War",
+              "size": 3
+            }
+          ]
+        },
+        {
+          "name": "Horror",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Music",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "children": [
+            {
+              "name": "Romance",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Romance",
+          "children": [
+            {
+              "name": "",
+              "size": 5
+            },
+            {
+              "name": "Thriller",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Sci-Fi",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Sport",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "War",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "children": [
+        {
+          "name": "Sci-Fi",
+          "children": [
+            {
+              "name": "",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fantasy",
+      "children": [
+        {
+          "name": "Horror",
+          "children": [
+            {
+              "name": "",
+              "size": 7
+            },
+            {
+              "name": "Mystery",
+              "size": 1
+            },
+            {
+              "name": "Romance",
+              "size": 1
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 1
+            },
+            {
+              "name": "Thriller",
+              "size": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Horror",
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "name": "Mystery",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            },
+            {
+              "name": "Sci-Fi",
+              "size": 3
+            },
+            {
+              "name": "Thriller",
+              "size": 3
+            }
+          ]
+        },
+        {
+          "name": "Sci-Fi",
+          "children": [
+            {
+              "name": "",
+              "size": 4
+            }
+          ]
+        },
+        {
+          "name": "Thriller",
+          "children": [
+            {
+              "name": "",
+              "size": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mystery",
+      "children": [
+        {
+          "name": "Romance",
+          "children": [
+            {
+              "name": "Thriller",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "Thriller",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sci-Fi",
+      "children": [
+        {
+          "name": "Thriller",
+          "children": [
+            {
+              "name": "",
+              "size": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "size": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
